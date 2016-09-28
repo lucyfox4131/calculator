@@ -18,6 +18,18 @@
   font-size: large;
 }
 
+.Equation-bar {
+  background-color: black;
+  color: white;
+  height: 60px;
+}
+
+.Calculator {
+  text-align: center;
+  padding-left: 35%;
+  padding-right: 35%
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
